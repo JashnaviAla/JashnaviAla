@@ -5,11 +5,15 @@
 
 # 🚀 About Me
 
-💻 Computer Science Engineering Student at **CVR College of Engineering**
-🌐 Passionate about **Full Stack Development, Backend Engineering & Scalable Applications**
-🧠 Regularly practicing **Data Structures & Algorithms** and problem-solving
-🚀 Building real-world projects using **React.js, Node.js, Express.js, MongoDB, and Flask**
-🎯 Interested in **Software Engineering, Backend Systems, AI & Scalable Technologies**
+* 🎓 Computer Science Engineering Student at **CVR College of Engineering**
+
+* 💻 Interested in **Full Stack Development, Backend Systems & Scalable Applications**
+
+* 🌱 Currently improving my skills in **DSA, System Design, and Backend Development**
+
+* 🚀 Working on projects using **React.js, Node.js, Express.js, MongoDB, and Flask**
+
+* ⚡ Passionate about solving real-world problems through technology and building impactful applications
 
 ---
 
